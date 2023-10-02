@@ -20,8 +20,8 @@ author: Abderahman Mahmoud
 ###############################################
 
 navbar-links:
-  Certifications:
-  Resume:
+  Certifications: "certifications"
+  Resume: "resume"
 
 ################
 # --- Logo --- #
